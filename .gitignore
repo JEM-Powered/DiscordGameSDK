@@ -1,0 +1,25 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Bb]in_shipping/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]eploy/
+[Dd]eploy_shipping/
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+/[Pp]ackages/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Rider cache/options directory
+.idea/

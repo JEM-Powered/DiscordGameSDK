@@ -1,0 +1,24 @@
+{
+    "name": "com.jempowered.discord.gamesdk",
+    "version": "3.2.1",
+    "displayName": "Discord Game SDK",
+    "description": "Discord Game SDK for Unity Package Manager.",
+    "unity": "2021.3",
+    "dependencies": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/JEM-Powered/DiscordGameSDK.git",
+      "directory": ""
+    },
+    "keywords": [
+      "JEM",
+      "Discord",
+      "Utility"
+    ],
+    "author": {
+      "name": "TylkoDemon",
+      "url": "https://github.com/TylkoDemon"
+    },
+    "category": "Utility"
+}
